@@ -61,19 +61,6 @@ document.addEventListener('DOMContentLoaded', () => {
             ]
         },
         {
-            id: 'event-tracking',
-            title: 'Location-Based Event System',
-            tech: 'MERN Stack (MongoDB, Express, React, Node)',
-            image: 'assets/project_places.png',
-            link: 'https://github.com/ARUNTHOMAS3/Location-based-event-tracking-system',
-            points: [
-                'Developed a web application to input, process, and display event details like type, location, and date.',
-                'Used Node.js and MongoDB for backend processing and efficient data management.',
-                'Built a React-based front end to dynamically display and filter event data.',
-                'Implemented location services to track and categorize events geographically.'
-            ]
-        },
-        {
             id: 'hanuven',
             title: 'Hanuven App',
             tech: 'Flutter, Dart, Mobile UI',
@@ -85,6 +72,32 @@ document.addEventListener('DOMContentLoaded', () => {
                 'Ensured responsive and intuitive UI across multiple devices.',
                 'Implemented reusable widgets and optimized UI components to enhance performance and maintainability.',
                 'Contributed to a seamless user experience through polished design implementations.'
+            ]
+        },
+        {
+            id: 'famous-places',
+            title: 'Famous Places Explorer',
+            tech: 'Flutter, Firebase, Maps API, SQLite',
+            image: 'assets/project_famous_places.png',
+            link: 'https://github.com/ARUNTHOMAS3/Famous-Places-Explorer',
+            points: [
+                'Developed a cross-platform Flutter app to discover and save tourist destinations with interactive maps.',
+                'Integrated Maps API for location markers and REST APIs for dynamic place search.',
+                ' utilized Firebase Firestore for real-time cloud data and SQLite for efficient offline storage.',
+                'Built a robust UI with detailed place views, image handling, and structured data models.'
+            ]
+        },
+        {
+            id: 'event-tracking',
+            title: 'Location-Based Event System',
+            tech: 'MERN Stack (MongoDB, Express, React, Node)',
+            image: 'assets/project_places.png',
+            link: 'https://github.com/ARUNTHOMAS3/Location-based-event-tracking-system',
+            points: [
+                'Developed a web application to input, process, and display event details like type, location, and date.',
+                'Used Node.js and MongoDB for backend processing and efficient data management.',
+                'Built a React-based front end to dynamically display and filter event data.',
+                'Implemented location services to track and categorize events geographically.'
             ]
         },
         {
